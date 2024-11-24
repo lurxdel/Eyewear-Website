@@ -1,0 +1,148 @@
+body {
+    color: #000;
+    font: 87.5%/1.5em 'Open Sans', sans-serif;
+      background:url(img/wall.jpg)no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: center;
+  }
+  
+  
+  .form-wrapper {
+      width:500px;
+      height:370px;
+      position: absolute;
+      top: 10%;
+      left: 25%;	
+      border: 3px solid;
+      border-color: #B22222;
+      border-top-right-radius: 20px;
+      border-top-left-radius: 20px;
+      padding: 30px;
+      margin-top: 20px;
+      padding-top: 10px;
+      margin-left: 50px;
+      margin-right: 50px;
+      background-color: #FFFFFF;
+  }
+  
+  
+  .form-item {
+  width:100%;
+  }
+  
+  h3{
+    font-size: 25px;
+    font-weight: 640;
+    margin-bottom: 10px;
+    color: #000;
+    padding:6px;
+    font-family:'sans-serif','helvetica';
+    text-align: center;
+  }
+  
+  
+  .form-item input {
+    border: none;
+    background:transparent;
+    color: rgb(0, 0, 0);
+    margin-top:11px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2em;
+    height: 49px;
+    padding: 0 16px;
+    width: 100%;
+    padding-left: 55px;
+  
+  }
+  
+  
+  .form-item input:focus {
+    outline: none;
+    border:1.4px solid #808080;
+  }
+  
+  
+  input[type='password']{
+      background: transparent url("img/pass.jpg") no-repeat;
+      background-position: 10px 50%;
+  }
+  
+  
+  input[type='text']{
+      background: transparent url("img/user.jpg") no-repeat;
+      background-position: 10px 50%;
+  
+  }
+  
+  
+  .button-panel {
+    margin-bottom: 20px;
+    padding-top: 10px;
+    width: 60%;
+  }
+  
+  
+  .button-panel .button {
+    background: #dda31d;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    height: 50px;
+    font-family: 'helvetica','Open Sans', sans-serif;
+    font-size: 1.2em;
+    text-align: center;
+    text-transform: uppercase;
+    transition: background 0.6s linear;
+    width: 100%;
+    margin-top:10px;
+  }
+  
+  
+  .button:hover {
+    background: #f9ba28;
+  }
+  
+  
+  .form-item input, .button-panel .button {
+    border-radius: 2px
+  }
+  
+  
+  .reminder {
+    text-align: center;
+  }
+  
+  
+  .reminder a {
+    color: #000;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  
+  .reminder a:hover {
+    color: #76604c;
+  }
+  
+  #footer {
+  
+  text-align: center;
+  border: 3px solid;
+  border-color: #B22222;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 10px;
+  background-color: #B22222;
+  width:	560px;
+  position: absolute;
+  top: 497px;
+  left: 25%;	
+  
+  }
