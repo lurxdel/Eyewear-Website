@@ -11,7 +11,7 @@ A simple PHP shopping website with MySQLi Database.
 ### About Us
 ![About Us](https://github.com/user-attachments/assets/56d2b3f7-b06a-4208-8245-57cd2a90c453)
 ### Contact
-![Contact](https://github.com/user-attachments/assets/6017c8eb-18d5-4882-aec6-54201c8ae1fe)
+![Contact](https://github.com/user-attachments/assets/dbfd3c71-1d5e-472f-b52d-5ac526607c73)
 ### My Purchase
 ![My Purchase](https://github.com/user-attachments/assets/98eba187-c7f0-4313-8d55-586c73d24420)
 
