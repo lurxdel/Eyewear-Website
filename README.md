@@ -8,6 +8,8 @@ A simple PHP shopping website with MySQLi Database.
 ![Login](https://github.com/user-attachments/assets/0f9bcb21-e2d6-48b6-91bd-3a6d4ba265e0)
 ### Items
 ![Items](https://github.com/user-attachments/assets/821255b3-aeec-469a-a6ea-aadd88f63dc9)
+### Modal
+![Modal](https://github.com/user-attachments/assets/a600f7a9-c50b-4b3b-9bed-2950e31f6423)
 ### About Us
 ![About Us](https://github.com/user-attachments/assets/56d2b3f7-b06a-4208-8245-57cd2a90c453)
 ### Contact
