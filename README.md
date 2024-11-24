@@ -1,4 +1,4 @@
-# Eyewear-Website
+# Eyewear Website
 A simple PHP shopping website with MySQLi Database.
 ### Home
 ![Home](https://github.com/user-attachments/assets/8031b45a-2b36-48bf-8b09-397ce4c68a7c)
