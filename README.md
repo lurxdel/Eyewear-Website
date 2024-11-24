@@ -18,7 +18,7 @@ A simple PHP shopping website with MySQLi Database.
 ## Guide To Run
 To run the website locally, do the following.
 
-- **Install Bootstrap:** The websites uses components for bootstrap.
+- **Install Bootstrap:** The website uses components for bootstrap.
   - **Bootstrap 4.0**
     - You can get it from here. [Bootstrap 4.0](https://getbootstrap.com/docs/4.0/getting-started/download/)
    
