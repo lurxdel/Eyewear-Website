@@ -3,7 +3,7 @@ A simple PHP shopping website with MySQLi Database.
 ### Home
 ![Home](https://github.com/user-attachments/assets/8031b45a-2b36-48bf-8b09-397ce4c68a7c)
 
-## Screenshots
+## Other Screenshots
 ### Login
 ![Login](https://github.com/user-attachments/assets/0f9bcb21-e2d6-48b6-91bd-3a6d4ba265e0)
 ### Items
