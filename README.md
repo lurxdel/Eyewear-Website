@@ -19,16 +19,18 @@ A simple PHP shopping website with MySQLi Database.
 
 ## Guide To Run
 To run the website locally, do the following.
+> - **Clone this repository** or download it as a **ZIP file.**
+> - Install the following **necessary components** to run the system.
 
-- **Install Bootstrap:** The website uses components for bootstrap.
-  - **Bootstrap 4.0**
-    - You can get it from here. [Bootstrap 4.0](https://getbootstrap.com/docs/4.0/getting-started/download/)
+1. **Install Bootstrap:** The website uses components for bootstrap.
+    - **Bootstrap 4.0**
+      - You can get it from here. [Bootstrap 4.0](https://getbootstrap.com/docs/4.0/getting-started/download/)
    
-- **Install Server:** The website requires to have a local server to run, you can use either one of these.
-  - **WAMPSERVER**
-    - You can get it from here. [Wampserver](https://sourceforge.net/projects/wampserver/)
-  - **XAMPP**
-    - You can get it from here. [Xampp](https://www.apachefriends.org/)
+2. **Install Server:** The website requires to have a local server to run, you can use either one of these.
+    - **WAMPSERVER**
+      - You can get it from here. [Wampserver](https://sourceforge.net/projects/wampserver/)
+    - **XAMPP**
+      - You can get it from here. [Xampp](https://www.apachefriends.org/)
    
 
 ### Create Database
